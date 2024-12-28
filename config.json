@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "builder": {
+      "name": "bpium-builder",
+      "type": "node",
+      "projectPath": "C:\\Users\\Satoru\\Desktop\\main\\builder",
+      "commands": ["bpium-builder", "{{version}}"]
+    }
+  }
+}
